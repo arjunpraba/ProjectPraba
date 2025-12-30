@@ -5,7 +5,7 @@ public class Employee {
 	private int id;
 	private String name;
 	private int salary;
-	public int getId() {
+	public int getId() { 
 		return id;
 	}
 	public void setId(int id) {
